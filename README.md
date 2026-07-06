@@ -1,6 +1,6 @@
-# Hi, I'm Trung (Dezen) 👋
+# Hi, It's Dezen 👋
 
-Frontend engineer in Hanoi. Detail-obsessed, curious by default, and probably tinkering with my setup right now instead of shipping.
+Fullstack engineer. Detail-obsessed, curious by default, and probably tinkering with my setup right now instead of shipping.
 
 ## Stack
 
