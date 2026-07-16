@@ -1,6 +1,6 @@
 # Hi, It's Dezen 👋
 
-Fullstack engineer. Detail-obsessed, curious by default, and probably tinkering with my setup right now instead of shipping.
+I'm a full-stack engineer. Creator of **[Tili](https://github.com/itsdezen/tili)**. I work mostly with TypeScript, React, Next.js, Node.js, Go, Rust, and Tauri.
 
 ## Stack
 
@@ -8,9 +8,9 @@ TypeScript, React, Next.js, Node.js, Python, Go, Rust, Tauri, PostgreSQL, MongoD
 
 ## Setup
 
-Zed + Neovim (LazyVim), Ghostty + tmux, AeroSpace, mise, Starship — all stitched together in my [dotfiles](https://github.com/itsdezen/dotfiles).
+Neovim (LazyVim), Ghostty, mise, Starship — everything is in my [dotfiles](https://github.com/itsdezen/dotfiles).
 
 ## Links
 
-- [dezen.me](https://dezen.me)
-- [github.com/itsdezen](https://github.com/itsdezen)
+- https://dezen.me
+- https://github.com/itsdezen
