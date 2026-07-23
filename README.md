@@ -1,8 +1,21 @@
+<table>
+<tr>
+<td valign="top">
+
 # Hi, It's Dezen <img src='images/hi.gif' alt='Hi' width="20"/>
 
 I'm a full-stack engineer. Creator of **[Tili](https://github.com/itsdezen/tili)**. I work mostly with TypeScript, React, Next.js, Node.js, Go, Rust, and Tauri.
 
 <!-- github_stats starts -->👥 3 followers &nbsp;·&nbsp; ⭐ 14 stars &nbsp;·&nbsp; 🍴 0 forks<!-- github_stats ends -->
+
+</td>
+<td width="110" align="right" valign="top">
+
+<img src="images/logo.svg" width="90" alt="Dezen logo"/>
+
+</td>
+</tr>
+</table>
 
 ## Stack
 
