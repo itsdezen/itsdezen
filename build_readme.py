@@ -88,7 +88,7 @@ def fetch_releases(oauth_token):
 
 def extract_current_stats(readme_content):
     match = re.search(
-        r'(\d{1,3}(?:,\d{3})*) followers, (\d{1,3}(?:,\d{3})*) stars, (\d{1,3}(?:,\d{3})*) forks',
+        r'(\d{1,3}(?:,\d{3})*) followers.*?(\d{1,3}(?:,\d{3})*) stars.*?(\d{1,3}(?:,\d{3})*) forks',
         readme_content,
     )
     if match:
@@ -139,7 +139,11 @@ if __name__ == "__main__":
     rewritten = replace_chunk(readme_contents, "recent_releases", md)
 
     stats = fetch_github_stats(TOKEN, current_stats)
-    stats_text = f"{stats['followers']:,} followers, {stats['stars']:,} stars, {stats['forks']:,} forks"
+    stats_text = (
+        f"👥 {stats['followers']:,} followers &nbsp;·&nbsp; "
+        f"⭐ {stats['stars']:,} stars &nbsp;·&nbsp; "
+        f"🍴 {stats['forks']:,} forks"
+    )
     rewritten = replace_chunk(rewritten, "github_stats", stats_text, inline=True)
 
     readme.open("w").write(rewritten)
