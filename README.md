@@ -14,5 +14,5 @@ Find me at **[dezen.me](https://dezen.me)** or **[github.com/itsdezen](https://g
 ## Latest Releases
 
 <!-- recent_releases starts -->
-• [tili v0.9.0](https://github.com/itsdezen/tili/releases/tag/v0.9.0) - 2026-08-30
+• [tili v0.10.0](https://github.com/itsdezen/tili/releases/tag/v0.10.0) - 2026-09-03
 <!-- recent_releases ends -->
