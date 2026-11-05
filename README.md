@@ -4,7 +4,7 @@
 
 I'm a full-stack engineer. Creator of **[Tili](https://github.com/itsdezen/tili)**, working mainly with **JavaScript/TypeScript**, **Python**, **Rust**, and **Go**.
 
-<!-- github_stats starts -->👥 6 followers &nbsp;·&nbsp; ⭐ 16 stars &nbsp;·&nbsp; 🍴 0 forks<!-- github_stats ends -->
+<!-- github_stats starts -->👥 5 followers &nbsp;·&nbsp; ⭐ 16 stars &nbsp;·&nbsp; 🍴 0 forks<!-- github_stats ends -->
 
 Daily setup: Neovim (LazyVim), Ghostty, mise, Starship — all in my **[dotfiles](https://github.com/itsdezen/dotfiles)**.  
 Find me at **[dezen.me](https://dezen.me)** or **[github.com/itsdezen](https://github.com/itsdezen)**.
@@ -14,5 +14,5 @@ Find me at **[dezen.me](https://dezen.me)** or **[github.com/itsdezen](https://g
 ## Latest Releases
 
 <!-- recent_releases starts -->
-• [tili v0.11.2](https://github.com/itsdezen/tili/releases/tag/v0.11.2) - 2026-10-28
+• [tili v0.13.0](https://github.com/itsdezen/tili/releases/tag/v0.13.0) - 2026-11-05
 <!-- recent_releases ends -->
