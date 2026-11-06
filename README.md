@@ -2,7 +2,7 @@
 
 <img align="right" width="90" src="images/logo.svg" alt="Dezen logo"/>
 
-I'm a full-stack engineer. Creator of **[Tili](https://github.com/itsdezen/tili)**, working mainly with **JavaScript/TypeScript**, **Python**, **Rust**, and **Go**.
+I'm a frontend engineer. Creator of **[Tili](https://github.com/itsdezen/tili)**, working mainly with **JavaScript/TypeScript**, **Python**, **Rust**, and **Go**.
 
 <!-- github_stats starts -->👥 6 followers &nbsp;·&nbsp; ⭐ 16 stars &nbsp;·&nbsp; 🍴 0 forks<!-- github_stats ends -->
 
